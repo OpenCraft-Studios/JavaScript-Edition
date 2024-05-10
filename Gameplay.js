@@ -14,6 +14,6 @@
 
 class Gameplay {
 	static info = {
-		'emulator-url': "https://eaglercraft.ru/mc/1.5.2/vanilla/"
+		'https://minecraft-javascript-edition--systemdrive.repl.co/"
 	};
 }
