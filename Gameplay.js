@@ -1,8 +1,8 @@
 /*
- * This file is part of the project MinecraftJavascriptEdition
- * Project Link: <https://github.com/CiroDOS/Minecraft-Javascript-Edition>
+ * This file is part of the project OpenCraft JavaScript
+ * Project Link: <https://github.com/OpenCraft-Studios/JavaScript-Edition>
  * If you distribute this file, please, don't quit this copyright notes.
- * ¡Thank you for watching my code!
+ * Thank you for watching my code!
  */
 
 /**
@@ -12,8 +12,10 @@
  * the variable beta_gameplay
  */
 
+const beta_gameplay = ''; // Not beta gameplay url :'(
+
 class Gameplay {
-	static info = {
-		'https://minecraft-javascript-edition--systemdrive.repl.co/"
-	};
+    static info = {
+        'emulator-url': "https://minecraft-javascript-edition--systemdrive.repl.co/"
+    };
 }

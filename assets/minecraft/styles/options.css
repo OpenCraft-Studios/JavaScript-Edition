@@ -1,4 +1,11 @@
-@charset 'UTF-8';
+/*
+ * This file is part of the project OpenCraft JavaScript
+ * Project Link: <https://github.com/OpenCraft-Studios/JavaScript-Edition>
+ * If you distribute this file, please, don't quit this copyright notes.
+ * Thank you for watching my code!
+ */
+
+@charset "UTF-8";
 
 #options {
   /* Colors */
@@ -7,7 +14,7 @@
 }
 
 #options .container {
-  /* Properties, such as angule, position, display, etc. */
+  /* Properties, such as angle, position, display, etc. */
   margin: 100px;
   margin-left: 740px;
 }
@@ -17,7 +24,7 @@
   background-color: #313234;
   color: #ffffff;
 
-  /* Properties, such as angule, position, display, etc. */
+  /* Properties, such as angle, position, display, etc. */
   float: left;
   margin-top: 60px;
   padding: 30px;
@@ -41,7 +48,7 @@
   /* Borders */
   border: 3px outset;
 
-  /* Properties, such as angule, position, display, etc. */
+  /* Properties, such as angle, position, display, etc. */
   position: fixed;
 }
 

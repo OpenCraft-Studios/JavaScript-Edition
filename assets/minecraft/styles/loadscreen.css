@@ -1,7 +1,14 @@
-@charset 'UTF-8';
+/*
+ * This file is part of the project OpenCraft JavaScript
+ * Project Link: <https://github.com/OpenCraft-Studios/JavaScript-Edition>
+ * If you distribute this file, please, don't quit this copyright notes.
+ * Thank you for watching my code!
+ */
+
+@charset "UTF-8";
 
 #loadscreen video {
-  /* Properties, such as angule, position, display, etc. */
+  /* Properties, such as angle, position, display, etc. */
   position: fixed;
 
   /* Sise */

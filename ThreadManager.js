@@ -1,8 +1,8 @@
 /*
- * This file is part of the project MinecraftJavascriptEdition
- * Project Link: <https://github.com/CiroDOS/Minecraft-Javascript-Edition>
+ * This file is part of the project OpenCraft JavaScript
+ * Project Link: <https://github.com/OpenCraft-Studios/JavaScript-Edition>
  * If you distribute this file, please, don't quit this copyright notes.
- * ¡Thank you for watching my code!
+ * Thank you for watching my code!
  */
 
 var loaded = { phase: 0, comment: "Not initialized!" };
@@ -115,7 +115,7 @@ function addEventListeners(menu_buttons) {
 	menu_buttons['btn_Singleplayer'].addEventListener("click", function () {
 
 		// Play on mode singleplayer
-		openPlayCanvas({ mode: 'singleplayer', world: { name: "New World", seed: Math.random() * 10000 } });
+		openPlayCanvas({ mode: 'singleplayer', world: { name: "New World", seed: Math.random() * 1000000000000000 } });
 
 	}, false);
 
